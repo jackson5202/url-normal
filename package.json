@@ -1,6 +1,6 @@
 {
   "name": "url-normal",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Make equal URLs compare the same by normalising them.",
   "type": "module",
   "main": "src/index.js",
